@@ -1,5 +1,6 @@
 import os
 import skimage.data
+import skimage.io
 import numpy as np
 
 def filelist(thefolder):
